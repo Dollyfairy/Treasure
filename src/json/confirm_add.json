@@ -1,0 +1,38 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "將Treasure加為好友",
+                        "wrap": true,
+                        "weight": "bold",
+                        "size": "xl"
+                    }
+                ]
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "spacing": "sm",
+                "contents": [
+                    {
+                        "type": "button",
+                        "style": "primary",
+                        "action": {
+                            "type": "message",
+                            "label": "加入好友",
+                            "text": "加入好友"
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

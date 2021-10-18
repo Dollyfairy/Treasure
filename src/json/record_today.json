@@ -1,0 +1,219 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "本日紀錄",
+                "weight": "bold",
+                "color": "#16BB54",
+                "size": "md"
+              },
+              {
+                "type": "icon",
+                "url": "https://imgur.com/UcfCKxf.png",
+                "size": "20px",
+                "offsetTop": "20%",
+                "offsetEnd": "xs"
+              },
+              {
+                "type": "text",
+                "text": "100",
+                "flex": 0,
+                "color": "#16BB54",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "md"
+          }
+        ],
+        "paddingTop": "15px",
+        "height": "60px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "size": "40px",
+                    "url": "https://i.imgur.com/pZ1HIWK.png"
+                  }
+                ],
+                "justifyContent": "flex-start",
+                "flex": 1
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "塑膠",
+                        "weight": "bold",
+                        "size": "lg"
+                      },
+                      {
+                        "type": "text",
+                        "text": "+0.15",
+                        "align": "end",
+                        "offsetEnd": "21px",
+                        "color": "#16BB54"
+                      }
+                    ],
+                    "justifyContent": "space-around"
+                  },
+                  {
+                    "type": "text",
+                    "text": "2021/10/4 , 中正區 , 15:30",
+                    "size": "15px"
+                  }
+                ],
+                "flex": 3
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "url": "https://s.yimg.com/zp/MerchandiseImages/EE2541803F-Product-21072335.jpg",
+            "size": "xl",
+            "margin": "sm"
+          }
+        ],
+        "paddingTop": "1%",
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "本日紀錄",
+                "weight": "bold",
+                "color": "#16BB54",
+                "size": "md"
+              },
+              {
+                "type": "icon",
+                "url": "https://imgur.com/UcfCKxf.png",
+                "size": "20px",
+                "offsetTop": "20%",
+                "offsetEnd": "xs"
+              },
+              {
+                "type": "text",
+                "text": "100",
+                "flex": 0,
+                "color": "#16BB54",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "md"
+          }
+        ],
+        "paddingTop": "15px",
+        "height": "60px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://i.imgur.com/ZLrQXqG.png",
+                    "size": "40px"
+                  }
+                ],
+                "justifyContent": "flex-start",
+                "flex": 1
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "玻璃",
+                        "weight": "bold",
+                        "size": "lg"
+                      },
+                      {
+                        "type": "text",
+                        "text": "+0.2",
+                        "align": "end",
+                        "offsetEnd": "21px",
+                        "color": "#16BB54"
+                      }
+                    ],
+                    "justifyContent": "space-around"
+                  },
+                  {
+                    "type": "text",
+                    "text": "2021/10/4 , 中正區 , 15:30",
+                    "size": "15px"
+                  }
+                ],
+                "flex": 3
+              }
+            ]
+          },
+          {
+            "type": "image",
+            "url": "https://pcm.trplus.com.tw/650x650/sys-master/productImages/hb1/hb3/9360289169438/000000000016252028-gallery-01-20190715215547918.jpg",
+            "size": "xl",
+            "margin": "sm"
+          }
+        ],
+        "paddingTop": "1%",
+        "spacing": "sm"
+      }
+    }
+  ]
+}

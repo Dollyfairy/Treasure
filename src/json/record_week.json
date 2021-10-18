@@ -1,0 +1,259 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "本周紀錄",
+                "weight": "bold",
+                "color": "#16BB54",
+                "size": "md"
+              },
+              {
+                "type": "icon",
+                "url": "https://imgur.com/UcfCKxf.png",
+                "size": "20px",
+                "offsetTop": "20%",
+                "offsetEnd": "xs"
+              },
+              {
+                "type": "text",
+                "text": "100",
+                "flex": 0,
+                "color": "#16BB54",
+                "weight": "bold"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "margin": "md"
+          }
+        ],
+        "paddingTop": "15px",
+        "height": "60px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://i.imgur.com/oSL6VLd.png",
+                    "size": "40px"
+                  }
+                ],
+                "justifyContent": "flex-start",
+                "flex": 1
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "鐵鋁",
+                        "weight": "bold",
+                        "size": "lg"
+                      },
+                      {
+                        "type": "text",
+                        "text": "+0.05",
+                        "align": "end",
+                        "offsetEnd": "21px",
+                        "color": "#16BB54"
+                      }
+                    ],
+                    "justifyContent": "space-around"
+                  },
+                  {
+                    "type": "text",
+                    "text": "2021/10/1 , 大安區 , 17:30",
+                    "size": "15px"
+                  }
+                ],
+                "flex": 3
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://i.imgur.com/6pVOSq0.png",
+                    "size": "40px"
+                  }
+                ],
+                "justifyContent": "flex-start",
+                "flex": 1
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "紙容器",
+                        "weight": "bold",
+                        "size": "lg"
+                      },
+                      {
+                        "type": "text",
+                        "text": "+0.1",
+                        "align": "end",
+                        "offsetEnd": "21px",
+                        "color": "#16BB54"
+                      }
+                    ],
+                    "justifyContent": "space-around"
+                  },
+                  {
+                    "type": "text",
+                    "text": "2021/10/1 , 大安區 , 17:30",
+                    "size": "15px"
+                  }
+                ],
+                "flex": 3
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://i.imgur.com/pZ1HIWK.png",
+                    "size": "40px"
+                  }
+                ],
+                "justifyContent": "flex-start",
+                "flex": 1
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "塑膠",
+                        "weight": "bold",
+                        "size": "lg"
+                      },
+                      {
+                        "type": "text",
+                        "text": "+0.15",
+                        "align": "end",
+                        "offsetEnd": "21px",
+                        "color": "#16BB54"
+                      }
+                    ],
+                    "justifyContent": "space-around"
+                  },
+                  {
+                    "type": "text",
+                    "text": "2021/10/4 , 中正區 , 15:30",
+                    "size": "15px"
+                  }
+                ],
+                "flex": 3
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "icon",
+                    "url": "https://i.imgur.com/ZLrQXqG.png",
+                    "size": "40px"
+                  }
+                ],
+                "justifyContent": "flex-start",
+                "flex": 1
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "玻璃",
+                        "weight": "bold",
+                        "size": "lg"
+                      },
+                      {
+                        "type": "text",
+                        "text": "+0.2",
+                        "align": "end",
+                        "offsetEnd": "21px",
+                        "color": "#16BB54"
+                      }
+                    ],
+                    "justifyContent": "space-around"
+                  },
+                  {
+                    "type": "text",
+                    "text": "2021/10/4 , 中正區 , 15:30",
+                    "size": "15px"
+                  }
+                ],
+                "flex": 3
+              }
+            ]
+          }
+        ],
+        "paddingTop": "1%",
+        "spacing": "xl"
+      }
+    }
+  ]
+}

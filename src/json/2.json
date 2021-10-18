@@ -1,0 +1,158 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "本日紀錄",
+                                "weight": "bold",
+                                "color": "#1DB446",
+                                "size": "16px"
+                            },
+                            {
+                                "type": "text",
+                                "text": "2020/12/14   15:30",
+                                "weight": "bold",
+                                "size": "22px",
+                                "flex": 0
+                            },
+                            {
+                                "type": "separator",
+                                "margin": "5px"
+                            }
+                        ],
+                        "height": "75px",
+                        "paddingTop": "15px"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "url": "https://i.imgur.com/W5OteZZ.png",
+                                                "size": "20px",
+                                                "offsetTop": "1px"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "weight": "bold",
+                                                "size": "20px",
+                                                "margin": "md",
+                                                "text": "台北市中正區",
+                                                "flex": 0
+                                            }
+                                        ],
+                                        "spacing": "none",
+                                        "margin": "xs"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "url": "https://i.imgur.com/Im2m2S1.png",
+                                                "size": "20px",
+                                                "offsetTop": "3px"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "weight": "bold",
+                                                "size": "20px",
+                                                "margin": "md",
+                                                "text": "塑膠類",
+                                                "flex": 0
+                                            }
+                                        ],
+                                        "margin": "xs"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "url": "https://i.imgur.com/IHx8NYC.png",
+                                                "size": "20px",
+                                                "offsetTop": "3px",
+                                                "offsetStart": "1px"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "weight": "bold",
+                                                "size": "20px",
+                                                "margin": "md",
+                                                "text": "1.5point",
+                                                "flex": 0
+                                            }
+                                        ],
+                                        "margin": "xs"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "image",
+                                "url": "https://i.imgur.com/06wOhyx.png",
+                                "size": "lg",
+                                "action": {
+                                    "type": "uri",
+                                    "label": "action",
+                                    "uri": "https://www.youtube.com/"
+                                }
+                            }
+                        ],
+                        "alignItems": "center"
+                    }
+                ],
+                "paddingTop": "1%",
+                "height": "200px"
+            },
+            "footer": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "vertical",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "　累積點數  30p 　＞",
+                                "size": "20px",
+                                "align": "center",
+                                "weight": "bold"
+                            }
+                        ],
+                        "borderWidth": "bold",
+                        "height": "50px",
+                        "cornerRadius": "lg",
+                        "backgroundColor": "#c3e1c3",
+                        "justifyContent": "center",
+                        "width": "90%"
+                    }
+                ],
+                "justifyContent": "center",
+                "alignItems": "center",
+                "paddingBottom": "lg"
+            }
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "type": "bubble",
+    "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+            {
+                "type": "text",
+                "text": "本日紀錄",
+                "weight": "bold",
+                "color": "#1DB446",
+                "size": "16px"
+            },
+            {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                    {
+                        "type": "icon",
+                        "url": "https://i.imgur.com/xCTd0kk.png",
+                        "size": "20px"
+                    },
+                    {
+                        "type": "text",
+                        "text": "2020/12/14",
+                        "weight": "bold",
+                        "size": "22px",
+                        "margin": "12px",
+                        "flex": 0
+                    },
+                    {
+                        "type": "text",
+                        "text": "05:40",
+                        "size": "22px",
+                        "wrap": true,
+                        "weight": "bold",
+                        "margin": "12px"
+                    }
+                ],
+                "spacing": "none",
+                "margin": "8px",
+                "offsetTop": "1px"
+            },
+            {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                    {
+                        "type": "icon",
+                        "url": "https://i.imgur.com/W5OteZZ.png",
+                        "size": "20px",
+                        "offsetTop": "1px"
+                    },
+                    {
+                        "type": "text",
+                        "weight": "bold",
+                        "size": "20px",
+                        "margin": "11px",
+                        "text": "台北市中正區",
+                        "flex": 0
+                    }
+                ],
+                "spacing": "none",
+                "margin": "8px"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "8px",
+                "spacing": "md",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "icon",
+                                "url": "https://i.imgur.com/Im2m2S1.png",
+                                "size": "20px",
+                                "offsetTop": "1px"
+                            },
+                            {
+                                "type": "text",
+                                "weight": "bold",
+                                "size": "20px",
+                                "margin": "11px",
+                                "text": "塑膠類",
+                                "flex": 0
+                            }
+                        ],
+                        "spacing": "none",
+                        "margin": "none"
+                    },
+                    {
+                        "type": "image",
+                        "url": "https://i.imgur.com/QrqB43p.png"
+                    }
+                ]
+            },
+            {
+                "type": "separator",
+                "margin": "xxl"
+            },
+            {
+                "type": "box",
+                "layout": "vertical",
+                "margin": "10px",
+                "contents": [
+                    {
+                        "type": "text",
+                        "text": "累積點數: 30",
+                        "color": "#1DB446",
+                        "weight": "bold",
+                        "size": "16px"
+                    },
+                    {
+                        "type": "button",
+                        "action": {
+                            "type": "message",
+                            "label": "點數兌換",
+                            "text": "點數"
+                        },
+                        "style": "primary",
+                        "margin": "10px"
+                    }
+                ]
+            }
+        ]
+    },
+    "styles": {
+        "footer": {
+            "separator": true
+        }
+    }
+}

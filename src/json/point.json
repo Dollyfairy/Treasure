@@ -1,0 +1,267 @@
+{
+    "type": "carousel",
+    "contents": [
+        {
+            "type": "bubble",
+            "size": "mega",
+            "header": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                            {
+                                "type": "text",
+                                "text": "點數/兌換",
+                                "weight": "bold",
+                                "color": "#16BB54",
+                                "size": "md"
+                            },
+                            {
+                                "type": "icon",
+                                "url": "https://imgur.com/UcfCKxf.png",
+                                "size": "20px",
+                                "offsetTop": "20%",
+                                "offsetEnd": "xs"
+                            },
+                            {
+                                "type": "text",
+                                "text": "200",
+                                "flex": 0,
+                                "color": "#1DB446",
+                                "weight": "bold"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "md"
+                    }
+                ],
+                "paddingTop": "15px",
+                "height": "60px"
+            },
+            "body": {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "image",
+                                "url": "https://i.imgur.com/D5bG11c.png",
+                                "align": "start",
+                                "size": "60px"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "UberEats",
+                                        "size": "14px",
+                                        "color": "#686868",
+                                        "weight": "bold"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "不限金額免運",
+                                        "weight": "bold"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "url": "https://imgur.com/UcfCKxf.png",
+                                                "offsetTop": "15%"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "150",
+                                                "margin": "5px",
+                                                "weight": "bold",
+                                                "color": "#1DB446"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "offsetStart": "-50px"
+                            }
+                        ],
+                        "margin": "10px"
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "image",
+                                "url": "https://nqace.com/wp-content/uploads/2021/06/1.png",
+                                "align": "start",
+                                "size": "60px"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "foodpanda",
+                                        "size": "14px",
+                                        "color": "#686868",
+                                        "weight": "bold"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "滿$199免運",
+                                        "weight": "bold"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "url": "https://imgur.com/UcfCKxf.png",
+                                                "offsetTop": "15%"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "100",
+                                                "margin": "5px",
+                                                "weight": "bold",
+                                                "color": "#1DB446"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "offsetStart": "-50px"
+                            }
+                        ],
+                        "margin": "10px"
+                    },
+                    {
+                        "type": "separator",
+                        "margin": "xxl"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "image",
+                                "url": "https://i.imgur.com/iebyoEX.png",
+                                "align": "start",
+                                "size": "60px"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "text": "McDonald's",
+                                        "size": "14px",
+                                        "color": "#686868",
+                                        "weight": "bold"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "雞塊買一送一",
+                                        "weight": "bold"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "url": "https://imgur.com/UcfCKxf.png",
+                                                "offsetTop": "15%"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "100",
+                                                "margin": "5px",
+                                                "weight": "bold",
+                                                "color": "#1DB446"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "offsetStart": "-50px"
+                            }
+                        ],
+                        "margin": "10px"
+                    },
+                    {
+                        "type": "separator"
+                    },
+                    {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                            {
+                                "type": "image",
+                                "url": "https://i2.wp.com/starbucks.vincent-chen.com/wp-content/uploads/2017/07/cropped-starbucks.png?fit=512%2C512",
+                                "align": "start",
+                                "size": "60px"
+                            },
+                            {
+                                "type": "box",
+                                "layout": "vertical",
+                                "contents": [
+                                    {
+                                        "type": "text",
+                                        "size": "14px",
+                                        "color": "#686868",
+                                        "weight": "bold",
+                                        "text": "Starbucks"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "買一送一",
+                                        "weight": "bold"
+                                    },
+                                    {
+                                        "type": "box",
+                                        "layout": "baseline",
+                                        "contents": [
+                                            {
+                                                "type": "icon",
+                                                "url": "https://imgur.com/UcfCKxf.png",
+                                                "offsetTop": "15%"
+                                            },
+                                            {
+                                                "type": "text",
+                                                "text": "200",
+                                                "margin": "5px",
+                                                "weight": "bold",
+                                                "color": "#1DB446"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "offsetStart": "-50px"
+                            }
+                        ],
+                        "margin": "10px"
+                    }
+                ],
+                "paddingTop": "1%",
+                "spacing": "sm"
+            }
+        }
+    ]
+}
